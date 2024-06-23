@@ -52,5 +52,9 @@
     "semi": true,
     "trailingComma": "all",
     "printWidth": 88
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Bill-Park/tsx-import-to-lazy"
   }
 }
